@@ -93,11 +93,11 @@ This project is an analysis of the challenges and opportunities associated with 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:ayobamio.oje@gmail.com">ayobamio.oje@gmail.com</a></td>
+      <td><a href="mailto:emmanueluriame@gmail.com">emmanueluriame@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 817-859-6789</td>
+      <td>(234) 703-294-8010</td>
     </tr>
     <tr>
       <td>📍</td>
