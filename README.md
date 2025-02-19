@@ -23,7 +23,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Sales data analysis of for blinkit stores.**
-![image](passport.jpeg)
+![image](breadbake.png)
 
 blinkit stores is a buisness venture with many supermarket and groceries outlets.
 
