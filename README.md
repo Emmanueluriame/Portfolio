@@ -22,7 +22,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Sales data analysis of for blinkit stores.**
+**Sales data analysis of for Bakery.**
 ![image](breadbake.png)
 
 blinkit stores is a buisness venture with many supermarket and groceries outlets.
@@ -30,11 +30,11 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**The Movie Database (TMDB) Analysis .**
+**Sales data analysis of for blinkit stores**
 
-![image](tmdb_movies.jpg)
+![image](Blinkit.png)
 
-This is a movie analysis of The Movie Database. 
+This is a sales analysis of a bakery dataset. 
 
 [Read More](https://github.com/AyobamiOOje/TMDB_movie.analysis/blob/main/README.md)
 
