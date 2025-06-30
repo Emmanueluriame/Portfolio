@@ -30,11 +30,17 @@ blinkit stores is a buisness venture with many supermarket and groceries outlets
 
 [Read More](https://www.linkdin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Sales data analysis of for blinkit stores**
+**Sales data analysis of blinkit stores**
 
 ![image](Blinkit.png)
 
 This is a sales analysis of a bakery dataset. 
+
+**Sales data analysis of Health**
+
+![image](healthpractice.png)
+
+This is a sales analysis of a Health dataset.
 
 [Read More](https://github.com/AyobamiOOje/TMDB_movie.analysis/blob/main/README.md)
 
