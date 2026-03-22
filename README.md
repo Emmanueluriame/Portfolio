@@ -69,7 +69,7 @@ This is a performance analysis of employees at XYZ company.
 
 **Machine Learning classification of Iris flower.**
 
-![image]("C:\Users\HP\OneDrive\Pictures\Screenshots\chocolate.png")
+![image](chocolate.png")
 
 This project is a ML model that classifies Iris flower based on physical properties
 
