@@ -8,13 +8,12 @@ Hello! I'm Stephen Emmanuel 🤓, a data analyst, educator, and engineer and con
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of the_DataVersewithAY, I provide consulting and training services for businesses and mentor aspiring analysts.*
+
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -70,7 +69,7 @@ This is a performance analysis of employees at XYZ company.
 
 **Machine Learning classification of Iris flower.**
 
-![image](Iris-Flower.jpg)
+![image]("C:\Users\HP\OneDrive\Pictures\Screenshots\chocolate.png")
 
 This project is a ML model that classifies Iris flower based on physical properties
 
